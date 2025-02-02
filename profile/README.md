@@ -4,7 +4,7 @@ If you are looking for the latest **T.V53.03 software** for all resolutions, you
 
 ---
 
-## 🔹 **What is T.V53.03 Software**  
+## 🔹 **What is T.V53.03 Software$**  
 **T.V53.03** is a universal LED TV motherboard software used in various LED TVs. It supports multiple resolutions and is widely used in smart and non-smart LED TV panels. Updating to the correct version ensures **better performance, bug fixes, and enhanced picture quality**.  
 
 ### **Key Features:**  
